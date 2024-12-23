@@ -28,3 +28,12 @@ To view the website locally or make modifications, follow these steps:
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in a web browser to view the website.
 
+
+   ![image](https://github.com/user-attachments/assets/1bf8f992-bbf0-475c-8551-6d0923888ea7)
+
+   ![image](https://github.com/user-attachments/assets/bb0f3748-1d93-4b60-8ba9-5da57b6ca5d6)
+
+   ![image](https://github.com/user-attachments/assets/e88e30e9-144c-4c26-842c-d9d0c0c42ffd)
+
+
+
